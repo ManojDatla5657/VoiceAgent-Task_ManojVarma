@@ -1,0 +1,71 @@
+Getting StartedWhat is Agenta?Quick Start
+What is Agenta?
+Quick Start
+Prompt EngineeringQuick StartOverviewPrompt ManagementIntegrating with agentaManage Prompts with the SDKProxy LLM CallsPlaygroundUsing the Prompt PlaygroundAdding Custom LLM ProvidersTutorials
+Quick Start
+Overview
+Prompt ManagementIntegrating with agentaManage Prompts with the SDKProxy LLM Calls
+Integrating with agenta
+Manage Prompts with the SDK
+Proxy LLM Calls
+PlaygroundUsing the Prompt PlaygroundAdding Custom LLM Providers
+Using the Prompt Playground
+Adding Custom LLM Providers
+Tutorials
+EvaluationOverviewCreate Test SetsConfigure EvaluatorsNo-code EvaluationEvaluate from SDKHuman EvaluationAnnotate Traces from APIEvaluatorsTutorialsCapture user feedbackEvaluate with SDK
+Overview
+Create Test Sets
+Configure Evaluators
+No-code Evaluation
+Evaluate from SDK
+Human Evaluation
+Annotate Traces from API
+Evaluators
+TutorialsCapture user feedbackEvaluate with SDK
+Capture user feedback
+Evaluate with SDK
+ObservabilityQuick StartOverviewObservability SDKDistributed Tracing in OtelIntegrationsTutorials
+Quick Start
+Overview
+Observability SDK
+Distributed Tracing in Otel
+Integrations
+Tutorials
+Custom WorkflowsOverviewQuick Start
+Overview
+Quick Start
+ConceptsCore Concepts
+Core Concepts
+MiscOSS vs. CommercialFAQGetting SupportTeam ManagementContributing
+OSS vs. Commercial
+FAQ
+Getting Support
+Team Management
+Contributing
+Self-hostDeploy LocallyDeploy on a Remote ServerDeploy on KubernetesApplying Schema Migration
+Deploy Locally
+Deploy on a Remote Server
+Deploy on Kubernetes
+Applying Schema Migration
+What is Agenta?
+Agenta is an open-source platform that helpsdevelopersandproduct teamsbuild robust AI applications powered by LLMs. It offers all the tools forprompt
+management and evaluation.
+With Agenta, you can:​
+Rapidlyexperimentandcomparepromptsonany LLM workflow(chain-of-prompts, Retrieval Augmented Generation (RAG), LLM agents...)
+Rapidlycreate test setsandgolden datasetsfor evaluation
+Evaluateyour application with pre-existing orcustom evaluators
+AnnotateandA/B testyour applications withhuman feedback
+Collaborate with product teamsfor prompt engineering and evaluation
+Deploy your applicationin one-click in the UI, through CLI, or through github workflows.
+Agenta focuses on increasing the speed of the development cycle of LLM applications by increasing the speed of experimentation.
+How is Agenta different?​
+Works with any LLM app workflow​
+Agenta enables prompt engineering and evaluation on any LLM app architecture, such asChain of Prompts,RAG, orLLM agents. It is compatible with any framework likeLangchainorLlamaIndex, and works with any model provider, such asOpenAI,Cohere, orlocal models.
+Jump hereto see how to use your own custom application with Agenta.
+Enable collaboration between developers and product teams​
+Agenta empowersnon-developersto iterate on the configuration of any custom LLM application, evaluate it, annotate it, A/B test it, and deploy it, all within the user interface.
+Byadding a few lines to your application code, you can create a prompt playground that allows non-developers to experiment with prompts for your application and use all the tools within Agenta.
+With Agenta, you can:
+How is Agenta different?Works with any LLM app workflowEnable collaboration between developers and product teams
+Works with any LLM app workflow
+Enable collaboration between developers and product teams

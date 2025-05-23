@@ -1,0 +1,12 @@
+requests
+pyaudio 
+openai-whisper 
+beautifulsoup4 
+sentence-transformers 
+faiss-cpu 
+numpy 
+sounddevice 
+pydub 
+keyboard 
+python-dotenv
+gtts       
